@@ -2,7 +2,7 @@
   "name": "Cyan-Gray",
   "displayName": "Cyan Gray",
   "description": "A Cyand and Gray theme",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "BrianJ",
   "engines": {
     "vscode": "^1.87.0"
