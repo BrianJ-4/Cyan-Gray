@@ -1,0 +1,33 @@
+{
+  "name": "Cyan-Gray",
+  "displayName": "Cyan Gray",
+  "description": "A Cyand and Gray theme",
+  "version": "0.0.1",
+  "publisher": "BrianJ",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BrianJ-4/Cyan-Gray-VSCode-Theme"
+  },
+  "keywords": [
+    "theme",
+    "cyan",
+    "gray",
+    "cyan gray",
+    "dark"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cyan Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cyan Gray-color-theme.json"
+      }
+    ]
+  }
+}
