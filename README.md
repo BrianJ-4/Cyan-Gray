@@ -1,4 +1,4 @@
-# Cyan-Grey README
+# Cyan-Gray README
 
 A Cyan and Gray VSCode theme based on the keycap set GMK Modern Dolch 2.
 
